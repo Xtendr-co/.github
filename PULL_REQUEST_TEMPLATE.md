@@ -2,10 +2,6 @@
 
 Please include a summary of the change and which issue is fixed.
 
-## GitHub Issue
-
-Mention GitHub Issue(s) this PR fixes. Ex. #1
-
 ## Type of change
 
 Please delete options that are not relevant.
